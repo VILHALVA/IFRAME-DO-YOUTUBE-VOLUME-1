@@ -15,8 +15,6 @@ O objetivo deste aplicativo é permitir aos usuários reproduzir o áudio de ví
   
 4. **Limpar Campo de Entrada:** O botão "STOP" também limpará o campo de entrada e redefinirá o aplicativo para um estado inicial.
 
-5. **Ocultar e Mostrar Botão "VOLTAR":** O botão "VOLTAR" é ocultado quando o usuário clica em "PLAY" e é mostrado novamente quando o usuário clica em "STOP".
-
 ## COMO USAR?
 ### BAIXANDO O PROJETO:
 * Clone o repositório para o seu sistema local:
@@ -45,9 +43,7 @@ unzip IFRAME-DO-YOUTUBE-VOLUME-1.zip
 
 3. **Interrompendo a Reprodução:** Para interromper a reprodução de áudio a qualquer momento, clique no botão "STOP". Isso também limpará o campo de entrada para uma nova entrada.
 
-4. **Navegando de Volta:** Se desejar retornar à página anterior, clique no botão "VOLTAR", que será mostrado quando você parar a reprodução de áudio.
-
-5. **Atenção aos Alertas:** Se você tentar clicar nos botões "PLAY" ou "STOP" sem inserir um link do YouTube válido, um alerta será exibido solicitando que você insira um link antes de continuar. Certifique-se sempre de inserir um link válido para uma experiência de reprodução de áudio adequada.
+4. **Atenção aos Alertas:** Se você tentar clicar nos botões "PLAY" ou "STOP" sem inserir um link do YouTube válido, um alerta será exibido solicitando que você insira um link antes de continuar. Certifique-se sempre de inserir um link válido para uma experiência de reprodução de áudio adequada.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
