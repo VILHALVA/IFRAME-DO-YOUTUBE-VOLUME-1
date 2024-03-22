@@ -15,28 +15,7 @@ O objetivo deste aplicativo é permitir aos usuários reproduzir o áudio de ví
   
 4. **Limpar Campo de Entrada:** O botão "STOP" também limpará o campo de entrada e redefinirá o aplicativo para um estado inicial.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/IFRAME-DO-YOUTUBE-VOLUME-1.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd IFRAME-DO-YOUTUBE-VOLUME-1
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip IFRAME-DO-YOUTUBE-VOLUME-1.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Inserindo um Link do YouTube:** Insira o link completo do vídeo do YouTube na caixa de entrada. Certifique-se de que o link contenha o parâmetro de vídeo correto.
 
 2. **Clique em PLAY:** Após inserir o link do YouTube, clique no botão "PLAY" para iniciar a reprodução do áudio do vídeo.
@@ -47,9 +26,9 @@ unzip IFRAME-DO-YOUTUBE-VOLUME-1.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
